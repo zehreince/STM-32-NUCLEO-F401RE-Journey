@@ -31,7 +31,7 @@ The project is divided into two main phases: isolated hardware testing and integ
 * **Language:** C
 
 ## How to Use
-1. Clone this repository: `git clone <your-repo-link>`
+1. Clone this repository: `git clone STM-32-NUCLEO-F401RE-Journey`
 2. Open **STM32CubeIDE** and set the repository root as your workspace.
 3. Import the desired module folder into the IDE.
 4. Compile the code (`Project > Build Project`).
