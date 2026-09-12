@@ -14,7 +14,7 @@ The project is divided into two main phases: isolated hardware testing and integ
 
 ### Phase 1: Basic Modules
 * [x] `01_Onboard_LED_Button`: Basic GPIO digital read/write operations using the onboard user button and LED.
-* [ ] `02_I2C_LCD_Basics`: I2C protocol implementation to display characters and variables.
+* [x] `02_I2C_LCD_Basics`: I2C protocol implementation to display characters and variables.
 * [ ] `03_ADC_Potentiometer`: Analog-to-Digital Conversion using polling and interrupts.
 * [ ] `04_DHT11_Sensor_Test`: Reading custom digital signals from a single-wire protocol.
 * [ ] `05_Keypad_Matrix`: Matrix scanning algorithms for input handling.
